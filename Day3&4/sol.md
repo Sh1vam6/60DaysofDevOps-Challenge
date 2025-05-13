@@ -1,6 +1,6 @@
 
 
-## Challenge 1: Fork and Clone  Project
+## Challenge 1: Fork and Clone  the Project
 
 1. Fork the repository on GitHub (https://github.com/sd031/eks-auto-mode-workshop)
 2. Clone your forked repository:
