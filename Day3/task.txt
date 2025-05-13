@@ -1,0 +1,20 @@
+Challenge 1: Fork and clone an open-source project
+(Sample Project Link- https://github.com/sd031/eks-auto-mode-workshop?ref=learnxops.com)
+
+Challenge 2: Create a new branch (feature-branch), switch, and commit changes.
+
+Challenge 3: Merge feature-branch into main and push the changes.
+
+Challenge 4: Use git reset or git revert to undo a commit.
+
+Challenge 5: Rebase feature-branch onto main and understand the difference.
+
+Challenge 6: Create a PR on GitHub from a feature branch.
+
+Challenge 7: Create conflicting changes in different branches and resolve them.
+
+Challenge 8: git stash to save and restore uncommitted changes.
+
+Challenge 9: Add version tags to commits and push them.
+
+Challenge 10: Use git commit --amend and git rebase -i to edit past commits.
