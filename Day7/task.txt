@@ -1,0 +1,21 @@
+Initial Task: Install boto3 (pip install boto3) and configure AWS credentials (aws configure).
+(pip install boto3 & aws configure)
+
+Challenge 1: Write a Python script that provisions an EC2 instance, a new security group, and a key pair.
+The same script should connect to ec2 after creation to check that everything is working fine. 
+(The key pair should be generated via the Python script and used for the EC2 SSH connection.)
+
+Challenge 2: Automate S3 lifecycle policies using boto3 (e.g., move files to Glacier after 30 days).
+
+Challenge 3: Create a script that starts or stops all EC2 instances in a specific AWS region.
+
+Challenge 4: Write a Python program that checks for unused IAM users and disables them.
+
+Challenge 5: Implement a log monitoring system that scans EC2 instances' /var/log for error messages
+ and sends alerts via email (AWS SES) and Slack.
+
+Challenge 6: Automate DNS record updates in AWS Route 53 using Python.
+
+Challenge 7: Write a script that triggers an AWS Lambda function using boto3.
+
+Challenge 8: Use boto3 to fetch AWS billing data, and generate a cost analysis report in PDF format

@@ -20,6 +20,7 @@ def display_data(data):
         print(json.dumps(data, indent=4))  # Pretty-print JSON data
     else:
         print("No data to display.")
+        
 if __name__ == "__main__":
     url = "https://jsonplaceholder.typicode.com/posts"
     data = fetch_data_from_api(url)
